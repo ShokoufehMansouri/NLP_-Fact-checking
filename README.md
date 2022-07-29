@@ -1,1 +1,1 @@
-# NLP_-Fact-checking
+# NLP_Fact-checking
