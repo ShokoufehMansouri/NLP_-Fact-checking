@@ -1,5 +1,3 @@
-# NLP_Fact-checking
-
 ## SNLP Mini-Project by TeamX
 
 TeamX is
